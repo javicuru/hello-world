@@ -1,2 +1,2 @@
 # hello-world
-This is my first repository!
+Hello, I don't feel like eating another human by now, see you.
